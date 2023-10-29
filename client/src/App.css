@@ -1,0 +1,25 @@
+:root {
+
+  /* colors */
+
+  --plumbum: #262C40;
+  --blueberry: #D4DEFE;
+  --Asphalt: #8189A3;
+
+  /* font sizes */
+
+  --M: 24px;
+  --S: 14px;
+
+  /* redius */
+
+  --radiusM: 24px;
+  --radiusS: 16px;
+
+  /* distance */
+
+  --distanceM: 40px;
+  --distanceS: 24px;
+  --distanceL: 14px;
+
+}
